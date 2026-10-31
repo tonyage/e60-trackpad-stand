@@ -1,0 +1,13 @@
+# OpenSCAD backups / temp
+*.bak
+*.scad~
+*.echo
+
+# Slicer project files (re-create from the STLs)
+*.3mf
+*.gcode
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
